@@ -1,0 +1,13 @@
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\bin\Debug\ReasoningGame.exe.config
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\bin\Debug\ReasoningGame.exe
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\bin\Debug\ReasoningGame.pdb
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\obj\Debug\ReasoningGame.csprojResolveAssemblyReference.cache
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\obj\Debug\ReasoningGame.Form1.resources
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\obj\Debug\ReasoningGame.Properties.Resources.resources
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\obj\Debug\ReasoningGame.csproj.GenerateResource.Cache
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\obj\Debug\ReasoningGame.exe
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\obj\Debug\ReasoningGame.pdb
+F:\File\C#\AITasks\ReasoningGame\ReasoningGame\obj\Debug\ReasoningGame.Resource1.resources
+Z:\Documents\作业\人智大1\自45_林子坤_2014011541_第一次大作业\src\ReasoningGame\bin\Debug\ReasoningGame.exe.config
+Z:\Documents\作业\人智大1\自45_林子坤_2014011541_第一次大作业\src\ReasoningGame\obj\Debug\ReasoningGame.exe
+Z:\Documents\作业\人智大1\自45_林子坤_2014011541_第一次大作业\src\ReasoningGame\obj\Debug\ReasoningGame.pdb
